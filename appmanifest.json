@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Новый проект",
-	"short_name": "Новый проект",
+	"name": "магазин Waselem'а",
+	"short_name": "магазин Waselem'а",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
